@@ -50,9 +50,9 @@ public class AddProductToDB extends HttpServlet {
         
         File f = new File(request.getRealPath("")+"/"+part.getSubmittedFileName());
         Cloudinary cloudinary = new Cloudinary(ObjectUtils.asMap(
-                "cloud_name", "grocer",
-                "api_key", "875458824828554",
-                "api_secret", "jBb-86WC4kUtEZ6hqYcULXcbeh0"));
+                "cloud_name", "ashish123",
+                "api_key", "773931652891351",
+                "api_secret", "jwvntUnzvXSLjzZEvirujfEWT2Y"));
 
     
          Map uploadResult = cloudinary.uploader().upload(f, ObjectUtils.emptyMap());

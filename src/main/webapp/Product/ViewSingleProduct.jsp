@@ -60,7 +60,7 @@
                     <br>
                     <br>
                       <div class="jumbotron" style="color:white;background-color: black; margin-top: 60px; margin-bottom: 0;">
-            <p>Welcome to Ecom</p>
+            <p>Welcome to ApnaBazaar</p>
         </div>
     </body>
 </html>
